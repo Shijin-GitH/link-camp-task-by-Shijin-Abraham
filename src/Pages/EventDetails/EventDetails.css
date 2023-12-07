@@ -1,0 +1,11 @@
+.inner {
+  background: linear-gradient(60deg, rgba(67, 138, 243, 0.7), rgba(0, 0, 0, 0.7));
+}
+
+.event, .inner, .more {
+  transition: 1s ease-in-out;
+}
+
+.more {
+  background: linear-gradient(60deg,rgba(0, 0, 0, 0.7), rgba(67, 138, 243, 0.7));
+}

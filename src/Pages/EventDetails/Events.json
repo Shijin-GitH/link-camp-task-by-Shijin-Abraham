@@ -1,0 +1,40 @@
+{
+    "event":[
+        {
+            "id":1,
+            "name":"ROS",
+            "date":"2024-01-01",
+            "description":"lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+        },
+        {
+            "id":2,
+            "name":"Cyber Security",
+            "date":"2024-01-01",
+            "description":"lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+        },
+        {
+            "id":3,
+            "name":"Data Science",
+            "date":"2024-01-01",
+            "description":"lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+        },
+        {
+            "id":4,
+            "name":"Machine Learning",
+            "date":"2024-01-01",
+            "description":"lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+        },
+        {
+            "id":5,
+            "name":"Artificial Intelligence",
+            "date":"2024-01-01",
+            "description":"lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+        },
+        {
+            "id":6,
+            "name":"Internet of Things",
+            "date":"2024-01-01",
+            "description":"lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+        }
+    ]
+}

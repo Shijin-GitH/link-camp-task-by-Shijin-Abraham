@@ -1,0 +1,11 @@
+@media (min-width: 767px)
+{
+    a + a:before {
+        content: ' | ';
+        width: 10vw;
+        margin: 0 3vw;
+        text-align: center;
+        color: #4F1271;
+        font-weight: 900;
+    }
+}
